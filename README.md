@@ -1,3 +1,5 @@
+# Hi 👋, I'm Sparsh Gupta
+
 ### I am a Pre Final year Undergrad at Maharaja Agrasen Institute of Technology pursuing B.Tech in CSE. As a developer and project manager, I am passionate about open source. I love Developing & Managing things.
 
 <!-- 
