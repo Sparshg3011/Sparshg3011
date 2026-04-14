@@ -28,7 +28,7 @@ I'm a software engineer pursuing my Master's in Computer Science at USC with a f
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -39,6 +39,6 @@ I'm a software engineer pursuing my Master's in Computer Science at USC with a f
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sparshg3011) [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparshgupta643@gmail.com)
