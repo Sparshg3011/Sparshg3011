@@ -2,17 +2,9 @@
 
 **MS in Computer Science @ USC** | Backend · Distributed Systems · Agentic AI · RAG
 
-I build backend systems, AI agents, and full stack applications that go from zero to production. Currently at [Endgame.ai](https://endgame.ai) where I've shipped .NET microservices, real time data pipelines, and LLM powered chess agents. Previously the first engineer at a startup that presented to Sequoia Capital, and co authored a [research paper](https://arxiv.org/abs/2506.08098) on agent memory orchestration out of USC's INK Lab.
+I'm a software engineer who likes thinking about how systems are designed and why they work. Most of my time goes into backend architecture, distributed systems, and figuring out how to make AI actually useful in production rather than just impressive in a demo. I gravitate towards problems where you need to think carefully about data flow, reliability, and scale. The stuff I find most exciting right now is at the intersection of solid systems engineering and practical AI, things like agentic workflows, RAG pipelines, and real time infrastructure that can handle messy, real world inputs without falling over.
 
 📍 Los Angeles, CA · 📬 [sparshgupta643@gmail.com](mailto:sparshgupta643@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/sparshg3011)
-
----
-
-### 🔨 What I'm Working On
-
-- Backend microservices and leaderboard systems at **Endgame.ai**
-- AI agents using LangChain, MCTS, and tool callable evaluators
-- Real time telemetry pipelines with Kafka for cheat detection
 
 ---
 
