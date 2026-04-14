@@ -8,7 +8,7 @@ I'm a software engineer pursuing my Master's in Computer Science at USC with a f
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages**
 
