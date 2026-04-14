@@ -2,7 +2,7 @@
 
 **MS in Computer Science @ USC** | Backend · Distributed Systems · Agentic AI · RAG
 
-I'm a software engineer who likes thinking about how systems are designed and why they work. Most of my time goes into backend architecture, distributed systems, and figuring out how to make AI actually useful in production rather than just impressive in a demo. I gravitate towards problems where you need to think carefully about data flow, reliability, and scale. The stuff I find most exciting right now is at the intersection of solid systems engineering and practical AI, things like agentic workflows, RAG pipelines, and real time infrastructure that can handle messy, real world inputs without falling over.
+I'm a software engineer pursuing my Master's in Computer Science at USC with a focus on backend systems, distributed architecture, and applied AI. I spend most of my time designing services that need to be fast, correct, and resilient under real world conditions. What draws me to agentic AI and RAG systems is the challenge of making LLMs behave predictably inside production infrastructure, where reliability matters as much as intelligence. I'm looking for opportunities where strong systems thinking and practical AI experience come together to build products people can depend on.
 
 📍 Los Angeles, CA · 📬 [sparshgupta643@gmail.com](mailto:sparshgupta643@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/sparshg3011)
 
