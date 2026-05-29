@@ -58,17 +58,6 @@ Los Angeles, CA Â· [sparshgupta643@gmail.com](mailto:sparshgupta643@gmail.com) Â
 
 See more on my [portfolio](https://sparsh-gupta-portfolio.vercel.app/#projects).
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sparshg3011&show_icons=true&hide_border=true&count_private=true" alt="Sparsh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparshg3011&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sparshg3011) [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparshgupta643@gmail.com) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sparsh-gupta-portfolio.vercel.app/#projects)
