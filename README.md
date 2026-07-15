@@ -1,63 +1,107 @@
-# Hi, I'm Sparsh
-
-**MS in Computer Science @ USC** · Backend · Distributed Systems · Agentic AI · RAG
-
-I'm a software engineer pursuing my Master's in Computer Science at USC, focused on backend systems, distributed architecture, and applied AI. I spend most of my time designing services that need to stay fast, correct, and resilient under real world conditions. What draws me to agentic AI and RAG systems is the challenge of making language models behave predictably inside production infrastructure, where reliability matters as much as intelligence. I'm looking for opportunities where strong systems thinking and practical AI experience come together to build products people can depend on.
-
-Los Angeles, CA · [sparshgupta643@gmail.com](mailto:sparshgupta643@gmail.com) · [LinkedIn](https://linkedin.com/in/sparshg3011) · [Portfolio](https://sparsh-gupta-portfolio.vercel.app/#projects)
-
----
-
-### Currently
-
-- Software Engineer Intern at [Endgame.ai](https://endgame.ai/).
-
----
-
-### Highlights
-
-- Published *Cognitive Weave*, a hybrid vector and graph memory orchestrator for multi agent systems ([arXiv:2506.08098](https://arxiv.org/abs/2506.08098)).
-- Selected for Summer of Open AI Research, where I built context compression using AST and LSP analysis to reduce hallucinations in code generation agents.
-
----
-
-### Tech Stack
-
-**Backend and APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-**Distributed Systems and Infrastructure**
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Agentic AI and ML**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=chromatic&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | What it does | Tech |
-|---------|--------------|------|
-| [**HealthSwarm**](https://github.com/Sparshg3011/HealthSwarm) | Multi agent healthcare orchestration. A FastAPI backend coordinates 6 autonomous agents over a LangGraph state machine that search more than 1,000 clinics and place live outbound voice calls to book appointments from start to finish. | LangGraph, FastAPI, MongoDB, Twilio, ElevenLabs |
-| [**Infinitune**](https://github.com/rohang1411/Infinitune-Realtime-LLM-Fine-Tuning-Framework) | A distributed streaming framework for continuous model adaptation. Three Kafka coordinated services propagate LoRA adapter updates within seconds and with zero serving downtime. | Apache Kafka, PyTorch, HuggingFace, LoRA |
-| [**CasaYa**](https://github.com/Sparshg3011/rentcasaya) | A rental marketplace with more than 200 listings, built on an event driven RabbitMQ microservice backend, with automated tenant screening, payments, and digital lease signing. | Next.js, Node.js, RabbitMQ, Redis, Supabase |
-| [**VocaMind**](https://github.com/Sparshg3011/VocaMind) | A real time voice agent platform that handles more than 50 concurrent calls with responses under two seconds and full multi turn dialog management. | Fastify, Next.js, Twilio, ElevenLabs, MongoDB |
-| [**PodSearch**](https://github.com/Sparshg3011/PodSearch) | Semantic search over hours of podcast audio with timestamp accurate answers and an agentic fact checking layer that reaches roughly 90% retrieval accuracy. | FastAPI, ChromaDB, GPT 4, LangChain |
-| [**HaluGuard**](https://github.com/Sparshg3011/HaluGuard) | Contrastive context selection that resists hallucination in code generation. Reaches 85.6% Hard Acc@5 on RepoBench, an improvement of 27.7 points over random selection. | PyTorch, Transformers, UniXcoder |
-
-See more on my [portfolio](https://sparsh-gupta-portfolio.vercel.app/#projects).
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sparshg3011) [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparshgupta643@gmail.com) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sparsh-gupta-portfolio.vercel.app/#projects)
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sparsh Gupta — GitHub Profile Preview</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-dark.min.css">
+<style>
+  body { background:#010409; margin:0; padding:32px 16px; }
+  .frame { max-width:900px; margin:0 auto; border:1px solid #30363d; border-radius:12px;
+           background:#0d1117; box-shadow:0 8px 40px rgba(0,0,0,.6); overflow:hidden; }
+  .bar { background:#161b22; border-bottom:1px solid #30363d; padding:10px 16px;
+         font:600 13px/1 -apple-system,Segoe UI,sans-serif; color:#8b949e; display:flex; gap:8px; align-items:center; }
+  .dot { width:11px; height:11px; border-radius:50%; display:inline-block; }
+  .markdown-body { box-sizing:border-box; padding:40px 44px; }
+  .markdown-body img { background:transparent; }
+  .markdown-body > table:first-of-type, .markdown-body table tr { background:transparent; }
+  .markdown-body table td, .markdown-body table th { border:1px solid #21262d; }
+</style></head>
+<body>
+  <div class="frame">
+    <div class="bar">
+      <span class="dot" style="background:#ff5f56"></span>
+      <span class="dot" style="background:#ffbd2e"></span>
+      <span class="dot" style="background:#27c93f"></span>
+      &nbsp; github.com/Sparshg3011 — README.md preview
+    </div>
+    <article class="markdown-body">
+      <div align="center">
+<h1>Sparsh Gupta</h1>
+<p><strong>Backend &amp; Distributed Systems · Agentic AI &amp; RAG</strong></p>
+<p>Master's in Computer Science @ USC</p>
+<p><a href="https://www.linkedin.com/in/sparshg3011/">LinkedIn</a> · <a href="mailto:sparshgupta643@gmail.com">Email</a> · <a href="https://sparsh-gupta-portfolio.vercel.app/#projects">Portfolio</a></p>
+</div>
+<hr />
+<h2>About</h2>
+<p>I'm a software engineer and a Master's student in Computer Science at USC, focused on backend systems, distributed architecture, and applied AI. Most of my work is about designing services that stay fast, correct, and resilient under real-world conditions.</p>
+<p>What draws me to agentic AI and RAG is the problem of making language models behave predictably inside production infrastructure, where reliability matters as much as intelligence. I care about systems that are dependable by design, and I'm looking for work where strong systems thinking and practical AI experience come together to build products people can rely on.</p>
+<hr />
+<h2>Tech Stack</h2>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Backend &amp; APIs</strong></td>
+<td>Node.js, FastAPI, Fastify, Express, .NET, GraphQL, REST</td>
+</tr>
+<tr>
+<td><strong>Distributed Systems &amp; Infrastructure</strong></td>
+<td>Apache Kafka, RabbitMQ, Redis, Docker, AWS, PostgreSQL, MongoDB</td>
+</tr>
+<tr>
+<td><strong>Agentic AI &amp; ML</strong></td>
+<td>LangGraph, LangChain, OpenAI, Claude API, PyTorch, HuggingFace, ChromaDB, Pinecone, FAISS</td>
+</tr>
+<tr>
+<td><strong>Languages</strong></td>
+<td>Python, TypeScript, JavaScript, C++, C#, SQL</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React, Next.js, Vue.js, Flutter, Tailwind</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Featured Projects</h2>
+<h3>Systems, Distributed Infrastructure &amp; Backends</h3>
+<p><strong><a href="https://github.com/Sparshg3011/Timefork">Timefork</a></strong> — A durable execution runtime that keeps AI agents crash-proof. Every step an agent takes is written to an append-only event log in Postgres and replayed deterministically, so a worker killed mid-task resumes exactly where it stopped. A two-phase intent/completion protocol with idempotency keys and fencing tokens guarantees side effects run once and only once, even when stale workers linger. <em>(Python · PostgreSQL)</em></p>
+<p><strong><a href="https://github.com/Sparshg3011/vector-search-engine">Vector Search Engine (HNSW)</a></strong> — A hand-built implementation of the HNSW approximate nearest-neighbor algorithm in pure NumPy, with the layered navigable graph, diversity heuristic, and beam search all written from scratch. It behaves like a production vector index while staying small and readable, and ships with a CI suite covering recall, graph reachability, and save/load determinism. <em>(Python · NumPy)</em></p>
+<p><strong><a href="https://github.com/rohang1411/Infinitune-Realtime-LLM-Fine-Tuning-Framework">Infinitune</a></strong> — A distributed streaming framework for adapting large language models while they stay in production. Three Kafka-coordinated services stream LoRA adapter updates through the pipeline so a served model keeps improving in near real time, with no downtime during a swap. <em>(Apache Kafka · PyTorch · HuggingFace · LoRA)</em></p>
+<p><strong><a href="https://github.com/Sparshg3011/rentcasaya">CasaYa</a></strong> — A rental marketplace built on an event-driven RabbitMQ microservice backend. It runs the full tenant journey — listing discovery, automated screening, payments, and digital lease signing — as decoupled services that stay responsive under load. <em>(Next.js · Node.js · RabbitMQ · Redis · Supabase)</em></p>
+<h3>Agentic AI, RAG &amp; Applied ML</h3>
+<p><strong><a href="https://github.com/Sparshg3011/litmus">Litmus</a></strong> — An autonomous agent that puts machine-learning papers to the test by re-running them. It reads a paper and its dataset, generates the analysis pipeline the paper describes using the Claude API, and executes that pipeline inside a network-isolated Docker sandbox. A bounded self-repair loop feeds runtime errors back into code generation, and every result is checked against pinned ground-truth data so the agent can never grade its own output. <em>(Python · Claude API · Docker)</em></p>
+<p><strong><a href="https://github.com/Sparshg3011/VocaMind">VocaMind</a></strong> — A real-time voice-agent platform for outbound calling. It stitches together speech recognition, text-to-speech, and live sentiment analysis to hold natural multi-turn conversations and adapt its tone as the call unfolds, with dialog state persisted so long conversations stay coherent. <em>(Fastify · Next.js · Twilio · ElevenLabs · MongoDB)</em></p>
+<p><strong><a href="https://github.com/Sparshg3011/PodSearch">PodSearch</a></strong> — A semantic search engine over long-form podcast audio that answers natural-language questions with the exact timestamp where the answer appears. An agentic fact-checking layer verifies each retrieved passage before responding, keeping answers grounded in what was actually said. <em>(FastAPI · ChromaDB · GPT-4 · LangChain)</em></p>
+<p><strong><a href="https://github.com/Sparshg3011/HaluGuard">HaluGuard</a></strong> — A contrastive context-selection method that curbs hallucination in code-generation models. It scores candidate snippets of repository context and selects the most relevant ones, so the model conditions on the right code before it writes anything. <em>(PyTorch · Transformers · UniXcoder)</em></p>
+<hr />
+<h2>Hackathon Projects</h2>
+<p><strong>Clara</strong> · <em>UC Berkeley AI Hackathon</em> — <em>One line from you and I'll write it up.</em></p>
+<p><strong><a href="https://github.com/Sparshg3011/HealthSwarm">HealthSwarm</a></strong> · <em>LA Hacks</em> — Multi-agent healthcare orchestration. A FastAPI backend coordinates a swarm of autonomous agents over a LangGraph state machine that searches clinics and places live outbound voice calls, carrying a patient from request to booked appointment without a human in the loop. <em>(LangGraph · FastAPI · MongoDB · Twilio · ElevenLabs)</em></p>
+<p><strong>SOLA</strong> · <em>Hack4SC</em> — <em>One line from you and I'll write it up.</em></p>
+<p><strong>Nina</strong> · <em>CalHacks 12.0</em> — <em>One line from you and I'll write it up.</em></p>
+<hr />
+<h2>Research &amp; Achievements</h2>
+<ul>
+<li><strong>Co-author, <em>Cognitive Weave</em></strong> — a hybrid vector and graph memory orchestrator for multi-agent systems (<a href="https://arxiv.org/abs/2506.08098">arXiv:2506.08098</a>).</li>
+<li><strong>Selected for Summer of Open AI Research</strong> — built context compression using AST and LSP analysis to reduce hallucinations in code-generation agents.</li>
+<li><strong>Research Assistant, USC ISI (INK Lab)</strong> — a structured survey of LLM watermarking and distillation privacy risks.</li>
+</ul>
+<hr />
+<h2>Education</h2>
+<ul>
+<li><strong>University of Southern California</strong> — M.S. in Computer Science <em>(2025–2026)</em></li>
+<li><strong>Guru Gobind Singh Indraprastha University</strong> — B.Tech in Computer Science and Engineering</li>
+</ul>
+<hr />
+<div align="center">
+<p>Let's connect — <a href="https://www.linkedin.com/in/sparshg3011/">LinkedIn</a> · <a href="mailto:sparshgupta643@gmail.com">Email</a> · <a href="https://sparsh-gupta-portfolio.vercel.app/#projects">Portfolio</a></p>
+<p>Los Angeles, CA · Open to Backend, Distributed Systems, and Agentic AI roles</p>
+</div>
+    </article>
+  </div>
+</body></html>
