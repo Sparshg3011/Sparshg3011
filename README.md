@@ -68,7 +68,9 @@ What draws me to agentic AI and RAG is making language models behave predictably
 
 ## Hackathon Projects
 
-**[HealthSwarm](https://github.com/Sparshg3011/HealthSwarm)** · *LA Hacks* — Multi-agent healthcare orchestration. A FastAPI backend coordinates a swarm of autonomous agents over a LangGraph state machine that searches clinics and places live outbound voice calls, carrying a patient from request to booked appointment without a human in the loop. *(LangGraph · FastAPI · MongoDB · Twilio · ElevenLabs)*
+**[Clara](https://github.com/Sparshg3011/Clara)** · *UC Berkeley AI Hackathon* — Control your laptop by texting it over iMessage — Clara routes each request to a specialist agent in a real swarm on Fetch.ai's Agentverse and waits for your approval before acting on your desktop. *(Fetch.ai uAgents · ASI:One · Electron · MCP · Redis)*
+
+**[HealthSwarm](https://github.com/Sparshg3011/HealthSwarm)** · *LA Hacks* — Multi-agent healthcare orchestration: a swarm of LangGraph agents searches clinics and places live outbound calls to book a patient's appointment end to end. *(LangGraph · FastAPI · MongoDB · Twilio · ElevenLabs)*
 
 ---
 
